@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lawal Abdulmujeeb.
 - 👀 I’m interested in web development, web3 and blockchain technologies.
-- 🌱 I’m currently learning some javascript
-- 💞️ I’m looking to collaborate on any javascript or python project (not too advanced yet)
+- 🌱 I’m currently learning some javascript and React
+- 💞️ I’m looking to collaborate on any javascript (not too advanced yet)
 - 📫 How to reach me ... lawalmujeeb78@gmail.com
 
 <!---
